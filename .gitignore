@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/PlaywrightDemo1/PlaywrightDemo1/bin/Debug/net6.0
+/PlaywrightDemo1/PlaywrightDemo1/obj
+/PlaywrightDemo1/.vs/PlaywrightDemo1
