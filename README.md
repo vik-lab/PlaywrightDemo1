@@ -1,1 +1,1 @@
-# Mercury.Automated.Tests
+# Playwright.Automated.Tests
